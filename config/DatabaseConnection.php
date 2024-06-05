@@ -5,9 +5,9 @@ namespace config;
 class DatabaseConnection
 {
 
-    private $host = 'localhost';
-    private $username ='root';
-    private $password = '';
+    private $host = 'mywebtodolist-server.mysql.database.azure.com';
+    private $username ='uorjgqqxhz';
+    private $password = 'qweasdzxc123!';
     private $database = 'todo_list';
     private $connection;
 
